@@ -1,4 +1,6 @@
 :root {
-  --cor-primaria: rgb(130, 11, 4);
+  --cor-primaria: rgb(152, 53, 47);
   --link-header: #000000;
+  --link-header-hover: #525252;
+  --principal-bg: rgb(253, 247, 245);
 }

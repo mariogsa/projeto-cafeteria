@@ -1,5 +1,6 @@
 .header-container {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   padding: 20px;
@@ -14,7 +15,7 @@
   flex-wrap: wrap;
   flex: 1;
   align-items: center;
-  gap: 15px;
+  gap: 20px;
 }
 .header-container li {
   text-transform: uppercase;
@@ -24,4 +25,7 @@
 }
 .header-container li a {
   color: var(--link-header);
+}
+.header-container li a:hover {
+  color: var(--link-header-hover);
 }

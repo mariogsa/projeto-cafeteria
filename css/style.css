@@ -5,4 +5,8 @@
 @import "./componentes/tipografia.css";
 @import "./componentes/cor.css";
 
+/* Header */
 @import "./header.css";
+
+/* Principal */
+@import "./principal.css";
