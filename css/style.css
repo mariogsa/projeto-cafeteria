@@ -1,0 +1,8 @@
+/* Reset */
+@import "./reset.css";
+
+/* Componentes */
+@import "./componentes/tipografia.css";
+@import "./componentes/cor.css";
+
+@import "./header.css";
